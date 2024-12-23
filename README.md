@@ -24,11 +24,7 @@ As for personal projects and what I can share with you on github...
 
 ## Technical Skills
 
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:scverse)
-
-https://img.shields.io/badge/any_text-you_like-blue
-
-![Static Badge](https://img.shields.io/badge/:badgeContent)
+![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:scanpy)
 
 
 ### Programming Languages
