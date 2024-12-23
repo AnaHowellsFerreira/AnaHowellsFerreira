@@ -22,11 +22,3 @@ As for personal projects and what I can share with you on github...
 - 💬 Ask me about single cell transcriptomics! 👩‍🔬
 - 📫 How to reach me: preferrably through linkedIn 
 
-## Technical Skills
-
-![PyPI - Python Version](https://img.shields.io/pypi/pyversions/:scanpy)
-
-
-### Programming Languages
-
-
