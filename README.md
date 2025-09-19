@@ -19,6 +19,6 @@ As for personal projects and what I can share with you on github...
 
 - 💻 I’m currently working on updating my github profile
 - 📚 I am taking refresher courses in Immunology and Drug Discovery through the HMX platform from Harvard
-- 💬 Ask me about single cell transcriptomics! 👩‍🔬
+- 💬 Let's chat about Bioinformatics! 👩‍🔬
 - 📫 How to reach me: preferrably through linkedIn: https://www.linkedin.com/in/ana-howells-ferreira/
 
